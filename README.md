@@ -22,6 +22,7 @@ Run Geometric Lens (ours): 02_geometric_lens.ipynb
 Compare all lenses in 2D: 03_planar visualization.ipynb
 
 ### References
+[arXiv](https://arxiv.org/abs/2607.10578)
 ```tex
 @misc{ma2026laguerregeometryinterpretinglarge,
       title={Laguerre Geometry for Interpreting Large Language Models}, 
