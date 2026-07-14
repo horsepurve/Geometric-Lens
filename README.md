@@ -1,7 +1,11 @@
 # Geometric-Lens: joint visualization of an LLM's decision boundaries and reasoning trajectories
 
-<img src="figures/AE_paris.png" width="60%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
-![LLM Decision Boundary & Trajectory Visualization for In-Context Interference](figures/AE_lyon.png){: width="100px" }
+<div align="center">
+<img src="figures/AE_paris.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
+</div>
+<div align="center">
+<img src="figures/AE_lyon.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for In-Context Interference">
+</div>
 
 ### Installation
 ```bash
