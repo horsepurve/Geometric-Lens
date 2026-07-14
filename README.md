@@ -1,7 +1,7 @@
 # Geometric-Lens: joint visualization of an LLM's decision boundaries and reasoning trajectories
 
-![LLM Decision Boundary & Trajectory Visualization for "The capital of France is"](figures/AE_paris.png)
-![LLM Decision Boundary & Trajectory Visualization for In-Context Interference](figures/AE_lyon.png)
+![LLM Decision Boundary & Trajectory Visualization for "The capital of France is"](figures/AE_paris.png){width=60%}
+![LLM Decision Boundary & Trajectory Visualization for In-Context Interference](figures/AE_lyon.png){width=60%}
 
 ### Installation
 ```bash
