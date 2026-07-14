@@ -1,10 +1,10 @@
 # Geometric Lens: joint visualization of LLM decision boundaries and reasoning trajectories
 
 <div align="center">
-<img src="figures/AE_paris.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
+<img src="figures/llm-decision-boundary.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
 </div>
 <div align="center">
-<img src="figures/AE_lyon.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for In-Context Interference">
+<img src="figures/llm-reasoning-trajectory.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for In-Context Interference">
 </div>
 
 ### Installation
