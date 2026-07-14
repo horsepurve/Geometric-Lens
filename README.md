@@ -1,1 +1,31 @@
-# Geometric-Lens
+# Geometric-Lens: joint visualization of an LLM's decision boundaries and reasoning trajectories
+
+!["The capital of France is"](figures/AE_paris.png)
+![Laguerre Autoencoder](figures/AE_lyon.png)
+
+### Installation
+```bash
+pip install numpy torch transformers
+```
+
+### Hidden representation readout and visualization
+Run Logit Lens: 01_logit_lens_patchscopes.ipynb
+
+Run Patchscopes: 01_logit_lens_patchscopes.ipynb
+
+Run Geometric Lens (ours): 02_geometric_lens.ipynb
+
+Compare all lenses in 2D: 03_planar visualization.ipynb
+
+### References
+```tex
+@misc{ma2026laguerregeometryinterpretinglarge,
+      title={Laguerre Geometry for Interpreting Large Language Models}, 
+      author={Chunwei Ma and Russell Wolfinger},
+      year={2026},
+      eprint={2607.10578},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2607.10578}, 
+}
+```
