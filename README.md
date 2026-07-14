@@ -1,4 +1,4 @@
-# Geometric-Lens: joint visualization of an LLM's decision boundaries and reasoning trajectories
+# Geometric Lens: joint visualization of LLM decision boundaries and reasoning trajectories
 
 <div align="center">
 <img src="figures/AE_paris.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
