@@ -9,7 +9,7 @@
 
 ### Installation
 ```bash
-pip install numpy torch transformers
+pip install numpy torch transformers accelerate
 ```
 
 ### Hidden representation readout and visualization
