@@ -13,13 +13,13 @@ pip install numpy torch transformers accelerate
 ```
 
 ### Hidden representation readout and visualization
-Run Logit Lens: 01_logit_lens_patchscopes.ipynb
+Run Logit Lens: 01_logit_lens_and_patchscopes.ipynb
 
-Run Patchscopes: 01_logit_lens_patchscopes.ipynb
+Run Patchscopes: 01_logit_lens_and_patchscopes.ipynb
 
 Run Geometric Lens (ours): 02_geometric_lens.ipynb
 
-Compare all lenses in 2D: 03_planar visualization.ipynb
+Compare all lenses in 2D: 03_boundary_trajectory_visualization.ipynb
 
 ### References
 [arXiv](https://arxiv.org/abs/2607.10578)
