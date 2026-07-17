@@ -22,7 +22,7 @@ pip install numpy torch transformers accelerate
 4. Compare all lenses in 2D: \
 03_boundary_trajectory_visualization.ipynb
 
-#### Reproducing Anthropic's Jacobian Lens
+### Reproducing Anthropic's Jacobian Lens
 Follow [jacobian-lens](https://github.com/anthropics/jacobian-lens).
 
 ### References
