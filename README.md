@@ -23,7 +23,9 @@ pip install numpy torch transformers accelerate
 03_boundary_trajectory_visualization.ipynb
 
 ### Reproducing Anthropic's Jacobian Lens
-Follow [jacobian-lens](https://github.com/anthropics/jacobian-lens).
+Follow [jacobian-lens](https://github.com/anthropics/jacobian-lens) to install J-Lens.
+Run J-Lens: \
+04_jacobian_lens.ipynb
 
 ### References
 [arXiv](https://arxiv.org/abs/2607.10578)
