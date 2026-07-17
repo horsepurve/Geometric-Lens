@@ -1,4 +1,4 @@
-# Joint visualization of LLM decision boundaries and reasoning trajectories
+# Joint visualization of LLM decision boundaries and reasoning trajectories by Geometric Lens and Laguerre Geometry
 
 <div align="center">
 <img src="figures/llm-decision-boundary.png" width="70%" alt="LLM Decision Boundary & Trajectory Visualization for 'The capital of France is'">
@@ -13,13 +13,14 @@ pip install numpy torch transformers accelerate
 ```
 
 ### Hidden representation readout and visualization
-Run Logit Lens: 01_logit_lens_and_patchscopes.ipynb
-
-Run Patchscopes: 01_logit_lens_and_patchscopes.ipynb
-
-Run Geometric Lens (ours): 02_geometric_lens.ipynb
-
-Compare all lenses in 2D: 03_boundary_trajectory_visualization.ipynb
+1. Run Logit Lens: \
+01_logit_lens_and_patchscopes.ipynb
+2. Run Patchscopes: \
+01_logit_lens_and_patchscopes.ipynb
+3. Run Geometric Lens (ours): \
+02_geometric_lens.ipynb
+4. Compare all lenses in 2D: \
+03_boundary_trajectory_visualization.ipynb
 
 ### References
 [arXiv](https://arxiv.org/abs/2607.10578)
